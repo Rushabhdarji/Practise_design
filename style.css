@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F3F4F6;
+}
+.header-contents{
+    background-color: #363636;
+    border-radius: 0px 0px 20px 20px;
+}
+ h1{
+     color:rgb(36, 82, 230);
+     text-align: center;
+     padding: 20px;
+     
+ }
+
+ input{
+     background-color: #F3F4F6;
+     border-radius: 50px;
+     height:30px;
+     padding: 7px;
+     border: 1.4px solid #000000;
+     margin: 200px;
+ }
+ input:hover{
+     background-color: #E5E7EB;
+ }
